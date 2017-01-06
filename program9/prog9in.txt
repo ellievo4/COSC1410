@@ -1,0 +1,9 @@
+Toyota Camry red 2002 4000 
+Ford Taurus green 2004 3500
+Nissan Altima grey 2009 7000
+Ford Focus	white 2001 2000
+mercedes C-Class black 2010 20000
+Toyota Yaris blue 2007 6500
+Nissan sentra white 2014 15000
+Toyota corolla green 2007 7000
+Honda civic white 2006 6500
